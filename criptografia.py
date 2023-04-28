@@ -98,7 +98,7 @@ def cripto(frase):
         elif letra in "V":
             tradutor = tradutor + "]c 1"
         elif letra in "W":
-            tradutor = tradutor + "H07]"
+            tradutor = tradutor + "H05]"
         elif letra in "X":
             tradutor = tradutor + "n:2"
         elif letra in "Y":
