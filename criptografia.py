@@ -123,4 +123,3 @@ print(cripto(input("Digite sua frase para encriptação:")))
 
 
 
-
