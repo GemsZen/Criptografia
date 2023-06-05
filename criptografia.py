@@ -108,6 +108,7 @@ def cripto(frase):
         else:
             
             tradutor = tradutor + letra
+            
     return tradutor
 
 print(cripto(input("Digite sua frase para encriptação:")))            
